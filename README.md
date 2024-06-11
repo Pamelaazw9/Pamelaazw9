@@ -1,10 +1,10 @@
-# Olá, me chamo Pâmela Azevedo Wermelinger ! 
+# Olá, me chamo Pâmela Wermelinger ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando na área de Análise de Dados, mas busco me aprofundar
+- 🔭 Atualmente trabalho na área de Análise de Dados e busco me aprofundar
 na área da programação;
 
-- 🌱 Estou aprendendo tudo do ZERO em programação, começando pelas tecnologias:
+- 🌱 Inicio meus estudo em Prograçaõ pelas tecnologias:
 
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -12,7 +12,8 @@ na área da programação;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-- 📫 Como entrar em contato comigo?
+
+- 📫 Se você tem interesse em compartilhar experiências e conhecimentos, então entre em contato comigo:
 
 Contatos:
 
