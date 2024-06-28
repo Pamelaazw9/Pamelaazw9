@@ -4,7 +4,7 @@
 - 🔭 Atualmente trabalho na área de Análise de Dados e busco me aprofundar
 na área da programação;
 
-- 🌱 Inicio meus estudo em Prograçaõ pelas tecnologias:
+- 🌱 Inicio meus estudo em Programação pelas tecnologias:
 
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
